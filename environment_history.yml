@@ -1,0 +1,8 @@
+name: tutorial_3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+# prefix: /Users/student/miniconda3/envs/tutorial_3
